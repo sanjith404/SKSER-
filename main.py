@@ -55,10 +55,10 @@ logger.addHandler(ch)
 
 load_dotenv()  # take environment variables from .env.
 
-BOT_TOKEN = environ.get("BOT_TOKEN")
+BOT_TOKEN = environ.get("6634581665:AAE88FvksgnKInkWGGwzDlgtBYHGvF0Ia6U")
 
 try:
-    assert BOT_TOKEN != None
+    assert BOT_TOKEN != 6634581665:AAE88FvksgnKInkWGGwzDlgtBYHGvF0Ia6U
 except AssertionError:
     logger.critical("Please set the environment variables")
     exit(1)
