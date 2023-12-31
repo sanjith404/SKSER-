@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "oiwa"
+name = "SKSER⁴⁰⁴"
 version = "0.3.0"
 description = " A simple Telegram bot that converts a phone number to a direct whatsapp chat link"
 license = "GPLv3"
-authors = ["Amr <contact@a3k.me>"]
+authors = ["Amr <@Sanjith_kumar404>"]
 
 [tool.poetry.dependencies]
 python = "3.12.*"
